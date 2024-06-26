@@ -1,5 +1,7 @@
 # units-tx-bot
 
+Donate and Support : 0xde260429ef7680c7a43e855b5fcf619948f34e2a
+
 - Regsiter Jika Belum Garap : https://app.units.network/?referral=0xFc4F17A20350e47f490bb2663E78Ce40Cf7Bf7B4
 - Connect Metamask > Connect Twitter
 - Claim Faucet (USE VPN) : https://faucet-testnet.unit0.dev
